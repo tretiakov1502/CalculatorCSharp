@@ -1,0 +1,36 @@
+C:\Users\sv1k1\source\repos\danyacalc\danyacalc\bin\Debug\danyacalc.exe.config
+C:\Users\sv1k1\source\repos\danyacalc\danyacalc\bin\Debug\danyacalc.exe
+C:\Users\sv1k1\source\repos\danyacalc\danyacalc\bin\Debug\danyacalc.pdb
+C:\Users\sv1k1\source\repos\danyacalc\danyacalc\obj\Debug\danyacalc.csprojAssemblyReference.cache
+C:\Users\sv1k1\source\repos\danyacalc\danyacalc\obj\Debug\danyacalc.Form1.resources
+C:\Users\sv1k1\source\repos\danyacalc\danyacalc\obj\Debug\danyacalc.Properties.Resources.resources
+C:\Users\sv1k1\source\repos\danyacalc\danyacalc\obj\Debug\danyacalc.csproj.GenerateResource.cache
+C:\Users\sv1k1\source\repos\danyacalc\danyacalc\obj\Debug\danyacalc.exe
+C:\Users\sv1k1\source\repos\danyacalc\danyacalc\obj\Debug\danyacalc.pdb
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\калькулятор шарп\danyacalc\bin\Debug\danyacalc.exe.config
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\калькулятор шарп\danyacalc\bin\Debug\danyacalc.exe
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\калькулятор шарп\danyacalc\bin\Debug\danyacalc.pdb
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\калькулятор шарп\danyacalc\obj\Debug\danyacalc.csprojAssemblyReference.cache
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\калькулятор шарп\danyacalc\obj\Debug\danyacalc.Form1.resources
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\калькулятор шарп\danyacalc\obj\Debug\danyacalc.Properties.Resources.resources
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\калькулятор шарп\danyacalc\obj\Debug\danyacalc.csproj.GenerateResource.cache
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\калькулятор шарп\danyacalc\obj\Debug\danyacalc.exe
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\калькулятор шарп\danyacalc\obj\Debug\danyacalc.pdb
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.csprojAssemblyReference.cache
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.Form1.resources
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.Properties.Resources.resources
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.csproj.GenerateResource.cache
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.exe
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.pdb
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\Третьяков калькулятор С# (Сачков)\danyacalc\bin\Debug\danyacalc.exe.config
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\Третьяков калькулятор С# (Сачков)\danyacalc\bin\Debug\danyacalc.exe
+C:\Users\Dm1tr1ch\Desktop\Лабы,лекции,отчёты\Сачков\Третьяков калькулятор С# (Сачков)\danyacalc\bin\Debug\danyacalc.pdb
+C:\Users\Admin\Desktop\Третьяков калькулятор С# (Сачков)\danyacalc\bin\Debug\danyacalc.exe.config
+C:\Users\Admin\Desktop\Третьяков калькулятор С# (Сачков)\danyacalc\bin\Debug\danyacalc.exe
+C:\Users\Admin\Desktop\Третьяков калькулятор С# (Сачков)\danyacalc\bin\Debug\danyacalc.pdb
+C:\Users\Admin\Desktop\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.Form1.resources
+C:\Users\Admin\Desktop\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.Properties.Resources.resources
+C:\Users\Admin\Desktop\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.exe
+C:\Users\Admin\Desktop\Третьяков калькулятор С# (Сачков)\danyacalc\obj\Debug\danyacalc.pdb
